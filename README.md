@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**YH-edenbro/YH-edenbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📄 About Me
+[Write your brief introduction here, including your background, career journey, and key interests.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Projects
+Here are some of the projects I've worked on:  
+- [**Project Name 1**](https://github.com/your-username/repo-name) - [Brief description of the project.]  
+- [**Project Name 2**](https://github.com/your-username/repo-name) - [Brief description of the project.]  
+- [**Project Name 3**](https://github.com/your-username/repo-name) - [Brief description of the project.]  
+
+---
+
+## 🛠️ Languages and Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## 📌 Pinned Repositories
+Here are some key repositories I've pinned:  
+🔗 [**Repo Name 1**](https://github.com/your-username/repo-name)  
+🔗 [**Repo Name 2**](https://github.com/your-username/repo-name)  
+🔗 [**Repo Name 3**](https://github.com/your-username/repo-name)  
+
+---
+
+## 🌱 Contributions
+Check out the contributions I've made over the past year:  
+
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=highcontrast&hide_border=true)
