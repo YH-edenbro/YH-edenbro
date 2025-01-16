@@ -31,4 +31,4 @@ Here are some key repositories I've pinned:
 ## 🌱 Contributions
 Check out the contributions I've made over the past year:  
 
-![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=highcontrast&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com?user=YH-edenbro&theme=highcontrast&hide_border=true)
