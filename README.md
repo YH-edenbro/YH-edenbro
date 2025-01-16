@@ -3,7 +3,8 @@
 ---
 
 ## 📄 About Me
-[Write your brief introduction here, including your background, career journey, and key interests.]
+- Major : 📖Korean Language and Literature 2020.3 - 2025.3
+- BootCamp : SSAFY13th (Samsung Software Academy For Youth) 2025.1 - 2025.12
 
 ---
 
